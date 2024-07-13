@@ -63,3 +63,4 @@ terraform init
 terraform plan rosa.out
 terraform apply rosa.out
 ```
+# rosa-ocpv
